@@ -18,7 +18,7 @@
 >仓库初始化
 * git init
 ***
->是VS code创建index.html文件
+>使用VS code创建index.html文件
 * code index.html
 ***
 >添加到仓库暂存区
